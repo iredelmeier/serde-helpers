@@ -1,0 +1,10 @@
+[package]
+name = "serde-helpers"
+version = "0.1.0"
+authors = ["Isobel Redelmeier <iredelmeier@gmail.com>"]
+license = "MIT"
+
+[lib]
+test = false
+bench = false
+doctest = false
