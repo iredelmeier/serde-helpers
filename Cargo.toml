@@ -3,6 +3,11 @@ name = "serde-helpers"
 version = "0.1.0"
 authors = ["Isobel Redelmeier <iredelmeier@gmail.com>"]
 license = "MIT"
+description = "Wrappers for serializing/deserializing Rust objects to and from different data formats"
+readme = "README.md"
+repository = "https://github.com/iredelmeier/serde-helpers"
+keywords = ["serde", "serialization"]
+categories = ["encoding"]
 
 [lib]
 test = false
